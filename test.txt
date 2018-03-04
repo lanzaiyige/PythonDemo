@@ -1,0 +1,12 @@
+(dp1
+S'age'
+p2
+I26
+sS'name'
+p3
+S'tanzhikang'
+p4
+sS'height'
+p5
+I172
+s.
